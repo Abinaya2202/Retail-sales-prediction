@@ -2,10 +2,10 @@
 
 ### Skills take away From This Project:
 
-Python scripting
-Data Wrangling
-EDA
-Model Building
+Python scripting,
+Data Wrangling,
+EDA,
+Model Building,
 Streamlit.
 
 ### Domain:

@@ -16,10 +16,15 @@ Predict the department-wide sales for each store for the following year and the 
 
 ### Technical Tags:
 *Time Series Forecasting
+
 *Predictive Analytics
+
 *Promotional Analysis
+
 *Data Preprocessing
+
 *Machine Learning
+
 *Deep Learning.
 
 ### Data Set:

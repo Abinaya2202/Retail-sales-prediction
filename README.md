@@ -19,8 +19,10 @@ Predict the department-wide sales for each store for the following year and the 
 
 ### Data Set:
 Source: Provided by the organization.
+
 Format: Excel Sheets with three tabs: Stores, Features, Sales.
+
 Variables: Store number, department number, date, weekly sales, temperature, fuel price, markdown data, CPI, unemployment rate, holiday indicator
 
 
-Results: In this project Utilizing advanced time series forecasting models, successfully predicted department-wide sales for each store for the upcoming year. The forecasting model considered historical sales data, seasonality patterns, and other relevant factors to provide accurate and reliable predictions
+## Results: In this project Utilizing advanced time series forecasting models, successfully predicted department-wide sales for each store for the upcoming year. The forecasting model considered historical sales data, seasonality patterns, and other relevant factors to provide accurate and reliable predictions
